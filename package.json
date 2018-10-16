@@ -27,9 +27,9 @@
   "author": "2018+ Reme Le Hane (reme.lehane@gmail.com) (https://www.remelehane.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RemeJuan/react-hoc-loader/issues"
+    "url": "https://github.com/RemeJuan/react-native-hoc-loader/issues"
   },
-  "homepage": "https://github.com/RemeJuan/react-hoc-loader.",
+  "homepage": "https://github.com/RemeJuan/react-native-hoc-loader.",
   "devDependencies": {
     "@types/react": "^16.4.7",
     "awesome-typescript-loader": "^5.2.0",
